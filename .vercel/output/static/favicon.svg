@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Meja Screening">
+  <rect width="32" height="32" rx="7" fill="#101513"/>
+  <rect x="5" y="24.5" width="22" height="2.25" rx="1" fill="#d7b56a"/>
+  <rect x="7" y="8" width="6.5" height="13" rx="1.25" fill="#3ecf8e"/>
+  <rect x="18.5" y="14" width="6.5" height="7" rx="1.25" fill="#f07178"/>
+</svg>
